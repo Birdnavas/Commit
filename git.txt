@@ -2,7 +2,7 @@ SUBIR (primera vez)
 git init
 git add .
 git commit -m "comentario"
-git remote add origin url_repositorio
+git remote add origin url
 git push origin master
 
 ACTUALIZAR
